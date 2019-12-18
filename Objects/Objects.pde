@@ -35,7 +35,7 @@ void setup() {
 
 
 void draw() { 
-  background( 230,230,250);   // Set the background to black
+  background( 230,230,250);  // set the background to lavendar
   snake.build();
   Point prev = snake.getCurrentPosition();
     
